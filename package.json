@@ -1,0 +1,11 @@
+{
+  "name": "utils-dbh",
+  "version": "1.0.0",
+  "description": "20210707: DBH的第一个npm包",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "DBH",
+  "license": "ISC"
+}
