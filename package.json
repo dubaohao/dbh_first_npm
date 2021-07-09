@@ -1,6 +1,6 @@
 {
-  "name": "first_npm_package",
-  "version": "1.0.0",
+  "name": "dbh_first_npm",
+  "version": "1.0.1",
   "description": "20210709: DBH的第一个npm包",
   "main": "index.js",
   "type": "module",
