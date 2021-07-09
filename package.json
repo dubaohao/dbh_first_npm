@@ -1,0 +1,24 @@
+{
+  "name": "first_npm_package",
+  "version": "1.0.0",
+  "description": "20210709: DBH的第一个npm包",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./src/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubaohao/first_npm_package.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "dubaohao24@126.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dubaohao/first_npm_package/issues"
+  },
+  "homepage": "https://github.com/dubaohao/first_npm_package#readme"
+}
